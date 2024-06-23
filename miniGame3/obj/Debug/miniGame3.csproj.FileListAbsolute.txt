@@ -1,0 +1,9 @@
+C:\Users\omar ahmed\Desktop\miniGame3\bin\Debug\miniGame3.exe.config
+C:\Users\omar ahmed\Desktop\miniGame3\bin\Debug\miniGame3.exe
+C:\Users\omar ahmed\Desktop\miniGame3\bin\Debug\miniGame3.pdb
+C:\Users\omar ahmed\Desktop\miniGame3\obj\Debug\miniGame3.csproj.AssemblyReference.cache
+C:\Users\omar ahmed\Desktop\miniGame3\obj\Debug\miniGame3.Properties.Resources.resources
+C:\Users\omar ahmed\Desktop\miniGame3\obj\Debug\miniGame3.csproj.GenerateResource.cache
+C:\Users\omar ahmed\Desktop\miniGame3\obj\Debug\miniGame3.csproj.CoreCompileInputs.cache
+C:\Users\omar ahmed\Desktop\miniGame3\obj\Debug\miniGame3.exe
+C:\Users\omar ahmed\Desktop\miniGame3\obj\Debug\miniGame3.pdb
